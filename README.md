@@ -2,7 +2,7 @@
 
 **This is a Blueprint for Instana Self-Hosted Custom Edition backup and restore**
 
-This is a document provide an example to show the backup and restore of
+This document provides an example to show the backup and restore of
 Instana selfhosted customized eidition in Openshift Container Platform.
 
 -   These steps are verified in selfhosted customized edition
