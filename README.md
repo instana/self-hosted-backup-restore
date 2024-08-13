@@ -60,14 +60,7 @@ Navigate to Minio UI Administrator\>Buckes to create a bucket for later
 use in Clickhouse backup/restore.
 
 ## Required software
-
-First the OADP need to be installed and configured in both Source and
-Target clusters:
-
-install OADP: [Configuring OADP with ODF - OADP Application backup and
-restore \| Backup and restore \| OpenShift Container Platform
-4.14](https://docs.openshift.com/container-platform/4.14/backup_and_restore/application_backup_and_restore/installing/installing-oadp-ocs.html)
-
+  
 1. Openshift OADP required for both source and target clusters.  
   install OADP: [Configuring OADP with ODF - OADP Application backup and
 restore \| Backup and restore \| OpenShift Container Platform
