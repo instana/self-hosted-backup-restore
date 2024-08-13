@@ -1,0 +1,16 @@
+{
+  "name": "Cassandra-Keyspaces",
+  "squad": "",
+  "owner": "",
+  "release-updates": "",
+  "keyspaces": [
+    {
+      "name": "shared",
+      "description": ""
+    },
+    {
+      "name": "onprem_tenant0_unit0",
+      "description": ""
+    }
+  ]
+}
